@@ -32,6 +32,7 @@ This project was developed as part of my academic work to demonstrate skills in 
 |------------|-----------|
 | ![Login](Screenshots/Login.png) | ![Dashboard](Screenshots/dashboard.png) |
 
+Screenshots/
 ---
 
 ## 📖 Documentation
