@@ -1,1 +1,1 @@
-ScreenShorts
+Screenshots
