@@ -28,11 +28,10 @@ This project was developed as part of my academic work to demonstrate skills in 
 ---
 
 ## 📸 Screenshots
-| Login Page | Dashboard |
+| Login Page | Menu |
 |------------|-----------|
-| ![Login](Screenshots/Login.png) | ![Dashboard](Screenshots/dashboard.png) |
+| ![Login](Screenshots/Login.png) | ![Menu](Screenshots/Menu.png) |
 
-Screenshots/
 ---
 
 ## 📖 Documentation
