@@ -27,6 +27,13 @@ This project was developed as part of my academic work to demonstrate skills in 
 
 ---
 
+## 📸 Screenshots
+| Login Page | Dashboard |
+|------------|-----------|
+| ![Login](Screenshots/login.png) | ![Dashboard](Screenshots/dashboard.png) |
+
+---
+
 ## 📖 Documentation
 📄 [User Manual](User_Manual.pdf) – Includes usage guide, and module details.  
 
