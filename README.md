@@ -1,7 +1,7 @@
 # Enterprise Inventory Management System
 
 ## 📌 Overview
-A complete inventory management solution developed using **VB.NET** and **MySQL**.  
+A complete inventory management solution developed using **VB.NET** and **MSSQL**.  
 The system automates and manages key business operations like employees, purchases, taxation, transport, and reporting.  
 
 This project was developed as part of my academic work to demonstrate skills in **.NET application development, database design, and modular architecture**.
