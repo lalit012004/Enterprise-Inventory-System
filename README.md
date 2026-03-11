@@ -21,9 +21,9 @@ This project was developed as part of my academic work to demonstrate skills in 
 
 ## 🛠️ Tech Stack
 - **Frontend:** VB.NET (Windows Forms)  
-- **Backend:** MySQL Database  
+- **Backend:** MSSQL Database  
 - **Architecture:** Modular, layered design  
-- **Tools Used:** Visual Studio, MySQL Workbench  
+- **Tools Used:** Visual Studio, MSSQL  
 
 ---
 
